@@ -26,6 +26,8 @@
     Some projects can be seen in my profile on Github, 
     there were some closed projects, which I cannot provide a link to.
     
+    [Codecademy](https://www.codecademy.com/users/Elfimov_Artem/achievements)
+    
     ####PET PROJECT
     Oct-2019 – Present time – Junior Software Engineer
     Project: Online cinema
